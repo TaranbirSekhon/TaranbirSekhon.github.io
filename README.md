@@ -12,5 +12,5 @@ Examples of how to use the project.
 
 ### Authors
 
-- Team members Full name - Taranbir sekhon Aditya, Warren Nicholas
+- Team members Full name - Taranbir sekhon, Aditya, Warren Nicholas
 - Team lead - Aditya
